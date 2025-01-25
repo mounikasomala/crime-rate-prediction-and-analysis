@@ -1,0 +1,1377 @@
+Area_Name,Year,Crime_Type,Crime_count
+Andaman & Nicobar Islands,2001,Theft,4.0
+Andaman & Nicobar Islands,2002,Theft,2.0
+Andaman & Nicobar Islands,2003,Theft,5.0
+Andaman & Nicobar Islands,2004,Theft,9.0
+Andaman & Nicobar Islands,2005,Theft,6.0
+Andaman & Nicobar Islands,2006,Theft,6.0
+Andaman & Nicobar Islands,2007,Theft,8.0
+Andaman & Nicobar Islands,2008,Theft,11.0
+Andaman & Nicobar Islands,2009,Theft,10.0
+Andaman & Nicobar Islands,2010,Theft,22.0
+Andhra Pradesh,2001,Theft,3115.0
+Andhra Pradesh,2002,Theft,3450.0
+Andhra Pradesh,2003,Theft,4732.0
+Andhra Pradesh,2004,Theft,4741.0
+Andhra Pradesh,2005,Theft,5465.0
+Andhra Pradesh,2006,Theft,5470.0
+Andhra Pradesh,2007,Theft,6309.0
+Andhra Pradesh,2008,Theft,7848.0
+Andhra Pradesh,2009,Theft,8257.0
+Andhra Pradesh,2010,Theft,7422.0
+Arunachal Pradesh,2001,Theft,36.0
+Arunachal Pradesh,2002,Theft,51.0
+Arunachal Pradesh,2003,Theft,50.0
+Arunachal Pradesh,2004,Theft,75.0
+Arunachal Pradesh,2005,Theft,119.0
+Arunachal Pradesh,2006,Theft,74.0
+Arunachal Pradesh,2007,Theft,116.0
+Arunachal Pradesh,2008,Theft,60.0
+Arunachal Pradesh,2009,Theft,109.0
+Arunachal Pradesh,2010,Theft,139.0
+Assam,2001,Theft,438.0
+Assam,2002,Theft,680.0
+Assam,2003,Theft,756.0
+Assam,2004,Theft,894.0
+Assam,2005,Theft,957.0
+Assam,2006,Theft,1405.0
+Assam,2007,Theft,1801.0
+Assam,2008,Theft,1878.0
+Assam,2009,Theft,1709.0
+Assam,2010,Theft,600.0
+Bihar,2001,Theft,1136.0
+Bihar,2002,Theft,1148.0
+Bihar,2003,Theft,1340.0
+Bihar,2004,Theft,2083.0
+Bihar,2005,Theft,2134.0
+Bihar,2006,Theft,2023.0
+Bihar,2007,Theft,2393.0
+Bihar,2008,Theft,2675.0
+Bihar,2009,Theft,3674.0
+Bihar,2010,Theft,4271.0
+Chandigarh,2001,Theft,494.0
+Chandigarh,2002,Theft,617.0
+Chandigarh,2003,Theft,566.0
+Chandigarh,2004,Theft,674.0
+Chandigarh,2005,Theft,579.0
+Chandigarh,2006,Theft,529.0
+Chandigarh,2007,Theft,853.0
+Chandigarh,2008,Theft,1094.0
+Chandigarh,2009,Theft,1117.0
+Chandigarh,2010,Theft,898.0
+Chhattisgarh,2001,Theft,942.0
+Chhattisgarh,2002,Theft,1126.0
+Chhattisgarh,2003,Theft,1131.0
+Chhattisgarh,2004,Theft,1316.0
+Chhattisgarh,2005,Theft,1619.0
+Chhattisgarh,2006,Theft,2143.0
+Chhattisgarh,2007,Theft,1933.0
+Chhattisgarh,2008,Theft,2118.0
+Chhattisgarh,2009,Theft,2188.0
+Chhattisgarh,2010,Theft,2139.0
+Dadra & Nagar Haveli,2001,Theft,15.0
+Dadra & Nagar Haveli,2002,Theft,37.0
+Dadra & Nagar Haveli,2003,Theft,15.0
+Dadra & Nagar Haveli,2004,Theft,24.0
+Dadra & Nagar Haveli,2005,Theft,22.0
+Dadra & Nagar Haveli,2006,Theft,15.0
+Dadra & Nagar Haveli,2007,Theft,19.0
+Dadra & Nagar Haveli,2008,Theft,19.0
+Dadra & Nagar Haveli,2009,Theft,23.0
+Dadra & Nagar Haveli,2010,Theft,34.0
+Daman & Diu,2002,Theft,36.0
+Daman & Diu,2003,Theft,27.0
+Daman & Diu,2004,Theft,12.0
+Daman & Diu,2005,Theft,27.0
+Daman & Diu,2006,Theft,33.0
+Daman & Diu,2007,Theft,28.0
+Daman & Diu,2008,Theft,33.0
+Daman & Diu,2009,Theft,31.0
+Daman & Diu,2010,Theft,28.0
+Delhi,2001,Theft,7981.0
+Delhi,2002,Theft,7604.0
+Delhi,2003,Theft,7688.0
+Delhi,2004,Theft,8924.0
+Delhi,2005,Theft,8883.0
+Delhi,2006,Theft,9402.0
+Delhi,2007,Theft,8874.0
+Delhi,2008,Theft,11027.0
+Delhi,2009,Theft,13251.0
+Delhi,2010,Theft,15031.0
+Goa,2001,Theft,178.0
+Goa,2002,Theft,151.0
+Goa,2003,Theft,134.0
+Goa,2004,Theft,125.0
+Goa,2005,Theft,195.0
+Goa,2006,Theft,228.0
+Goa,2007,Theft,220.0
+Goa,2008,Theft,253.0
+Goa,2009,Theft,346.0
+Goa,2010,Theft,372.0
+Gujarat,2001,Theft,5537.0
+Gujarat,2002,Theft,6256.0
+Gujarat,2003,Theft,7244.0
+Gujarat,2004,Theft,6936.0
+Gujarat,2005,Theft,7098.0
+Gujarat,2006,Theft,7191.0
+Gujarat,2007,Theft,8019.0
+Gujarat,2008,Theft,9943.0
+Gujarat,2009,Theft,11145.0
+Gujarat,2010,Theft,9829.0
+Haryana,2001,Theft,3120.0
+Haryana,2002,Theft,3054.0
+Haryana,2003,Theft,3293.0
+Haryana,2004,Theft,3735.0
+Haryana,2005,Theft,5276.0
+Haryana,2006,Theft,6588.0
+Haryana,2007,Theft,6736.0
+Haryana,2008,Theft,7893.0
+Haryana,2009,Theft,8370.0
+Haryana,2010,Theft,11398.0
+Himachal Pradesh,2001,Theft,145.0
+Himachal Pradesh,2002,Theft,152.0
+Himachal Pradesh,2003,Theft,218.0
+Himachal Pradesh,2004,Theft,213.0
+Himachal Pradesh,2005,Theft,172.0
+Himachal Pradesh,2006,Theft,216.0
+Himachal Pradesh,2007,Theft,265.0
+Himachal Pradesh,2008,Theft,329.0
+Himachal Pradesh,2009,Theft,331.0
+Himachal Pradesh,2010,Theft,334.0
+Jammu & Kashmir,2001,Theft,633.0
+Jammu & Kashmir,2002,Theft,664.0
+Jammu & Kashmir,2003,Theft,576.0
+Jammu & Kashmir,2004,Theft,573.0
+Jammu & Kashmir,2005,Theft,504.0
+Jammu & Kashmir,2006,Theft,559.0
+Jammu & Kashmir,2007,Theft,514.0
+Jammu & Kashmir,2008,Theft,672.0
+Jammu & Kashmir,2009,Theft,881.0
+Jammu & Kashmir,2010,Theft,968.0
+Jharkhand,2001,Theft,239.0
+Jharkhand,2002,Theft,718.0
+Jharkhand,2003,Theft,347.0
+Jharkhand,2004,Theft,718.0
+Jharkhand,2005,Theft,773.0
+Jharkhand,2006,Theft,1229.0
+Jharkhand,2007,Theft,1738.0
+Jharkhand,2008,Theft,2471.0
+Jharkhand,2009,Theft,2496.0
+Jharkhand,2010,Theft,2684.0
+Karnataka,2001,Theft,3863.0
+Karnataka,2002,Theft,4281.0
+Karnataka,2003,Theft,4333.0
+Karnataka,2004,Theft,5733.0
+Karnataka,2005,Theft,5977.0
+Karnataka,2006,Theft,6006.0
+Karnataka,2007,Theft,6073.0
+Karnataka,2008,Theft,9202.0
+Karnataka,2009,Theft,11020.0
+Karnataka,2010,Theft,10639.0
+Kerala,2001,Theft,1795.0
+Kerala,2002,Theft,1978.0
+Kerala,2003,Theft,1668.0
+Kerala,2004,Theft,1717.0
+Kerala,2005,Theft,1946.0
+Kerala,2006,Theft,2019.0
+Kerala,2007,Theft,2110.0
+Kerala,2008,Theft,2001.0
+Kerala,2009,Theft,2028.0
+Kerala,2010,Theft,1478.0
+Lakshadweep,2003,Theft,1.0
+Lakshadweep,2006,Theft,2.0
+Lakshadweep,2007,Theft,2.0
+Lakshadweep,2008,Theft,1.0
+Lakshadweep,2009,Theft,5.0
+Madhya Pradesh,2001,Theft,4323.0
+Madhya Pradesh,2002,Theft,4845.0
+Madhya Pradesh,2003,Theft,5208.0
+Madhya Pradesh,2004,Theft,6246.0
+Madhya Pradesh,2005,Theft,6551.0
+Madhya Pradesh,2006,Theft,7651.0
+Madhya Pradesh,2007,Theft,8822.0
+Madhya Pradesh,2008,Theft,11029.0
+Madhya Pradesh,2009,Theft,10955.0
+Madhya Pradesh,2010,Theft,12060.0
+Maharashtra,2001,Theft,8887.0
+Maharashtra,2002,Theft,9130.0
+Maharashtra,2003,Theft,9271.0
+Maharashtra,2004,Theft,11307.0
+Maharashtra,2005,Theft,12213.0
+Maharashtra,2006,Theft,12814.0
+Maharashtra,2007,Theft,13910.0
+Maharashtra,2008,Theft,16909.0
+Maharashtra,2009,Theft,18236.0
+Maharashtra,2010,Theft,18605.0
+Manipur,2001,Theft,71.0
+Manipur,2002,Theft,119.0
+Manipur,2003,Theft,124.0
+Manipur,2004,Theft,109.0
+Manipur,2005,Theft,92.0
+Manipur,2006,Theft,119.0
+Manipur,2007,Theft,157.0
+Manipur,2008,Theft,297.0
+Manipur,2009,Theft,320.0
+Manipur,2010,Theft,286.0
+Meghalaya,2001,Theft,57.0
+Meghalaya,2002,Theft,58.0
+Meghalaya,2003,Theft,108.0
+Meghalaya,2004,Theft,140.0
+Meghalaya,2005,Theft,119.0
+Meghalaya,2006,Theft,135.0
+Meghalaya,2007,Theft,93.0
+Meghalaya,2008,Theft,132.0
+Meghalaya,2009,Theft,180.0
+Meghalaya,2010,Theft,152.0
+Mizoram,2001,Theft,20.0
+Mizoram,2002,Theft,31.0
+Mizoram,2003,Theft,56.0
+Mizoram,2004,Theft,0.0
+Mizoram,2005,Theft,0.0
+Mizoram,2006,Theft,68.0
+Mizoram,2007,Theft,70.0
+Mizoram,2008,Theft,43.0
+Mizoram,2009,Theft,77.0
+Mizoram,2010,Theft,69.0
+Nagaland,2001,Theft,119.0
+Nagaland,2002,Theft,161.0
+Nagaland,2003,Theft,225.0
+Nagaland,2004,Theft,122.0
+Nagaland,2005,Theft,248.0
+Nagaland,2006,Theft,155.0
+Nagaland,2007,Theft,233.0
+Nagaland,2008,Theft,251.0
+Nagaland,2009,Theft,216.0
+Nagaland,2010,Theft,277.0
+Odisha,2001,Theft,1011.0
+Odisha,2002,Theft,1028.0
+Odisha,2003,Theft,1076.0
+Odisha,2004,Theft,1404.0
+Odisha,2005,Theft,1626.0
+Odisha,2006,Theft,1571.0
+Odisha,2007,Theft,1733.0
+Odisha,2008,Theft,1975.0
+Odisha,2009,Theft,2521.0
+Odisha,2010,Theft,2627.0
+Puducherry,2001,Theft,284.0
+Puducherry,2002,Theft,258.0
+Puducherry,2003,Theft,295.0
+Puducherry,2004,Theft,322.0
+Puducherry,2005,Theft,235.0
+Puducherry,2006,Theft,320.0
+Puducherry,2007,Theft,498.0
+Puducherry,2008,Theft,443.0
+Puducherry,2009,Theft,502.0
+Puducherry,2010,Theft,384.0
+Punjab,2001,Theft,1270.0
+Punjab,2002,Theft,1345.0
+Punjab,2003,Theft,1427.0
+Punjab,2004,Theft,1188.0
+Punjab,2005,Theft,1190.0
+Punjab,2006,Theft,1545.0
+Punjab,2007,Theft,2062.0
+Punjab,2008,Theft,2160.0
+Punjab,2009,Theft,2842.0
+Punjab,2010,Theft,2713.0
+Rajasthan,2001,Theft,4039.0
+Rajasthan,2002,Theft,4433.0
+Rajasthan,2003,Theft,5267.0
+Rajasthan,2004,Theft,6395.0
+Rajasthan,2005,Theft,6429.0
+Rajasthan,2006,Theft,6977.0
+Rajasthan,2007,Theft,7933.0
+Rajasthan,2008,Theft,9496.0
+Rajasthan,2009,Theft,11783.0
+Rajasthan,2010,Theft,13109.0
+Sikkim,2001,Theft,6.0
+Sikkim,2002,Theft,5.0
+Sikkim,2003,Theft,3.0
+Sikkim,2004,Theft,6.0
+Sikkim,2005,Theft,5.0
+Sikkim,2006,Theft,8.0
+Sikkim,2007,Theft,11.0
+Sikkim,2008,Theft,9.0
+Sikkim,2009,Theft,10.0
+Sikkim,2010,Theft,8.0
+Tamil Nadu,2001,Theft,4260.0
+Tamil Nadu,2002,Theft,4677.0
+Tamil Nadu,2003,Theft,4581.0
+Tamil Nadu,2004,Theft,4005.0
+Tamil Nadu,2005,Theft,3583.0
+Tamil Nadu,2006,Theft,3009.0
+Tamil Nadu,2007,Theft,2888.0
+Tamil Nadu,2008,Theft,3747.0
+Tamil Nadu,2009,Theft,5198.0
+Tamil Nadu,2010,Theft,5205.0
+Tripura,2001,Theft,10.0
+Tripura,2002,Theft,73.0
+Tripura,2003,Theft,53.0
+Tripura,2004,Theft,36.0
+Tripura,2005,Theft,57.0
+Tripura,2006,Theft,28.0
+Tripura,2007,Theft,55.0
+Tripura,2008,Theft,65.0
+Tripura,2009,Theft,71.0
+Tripura,2010,Theft,50.0
+Uttar Pradesh,2001,Theft,5790.0
+Uttar Pradesh,2002,Theft,5689.0
+Uttar Pradesh,2003,Theft,4720.0
+Uttar Pradesh,2004,Theft,8452.0
+Uttar Pradesh,2005,Theft,7619.0
+Uttar Pradesh,2006,Theft,8349.0
+Uttar Pradesh,2007,Theft,9485.0
+Uttar Pradesh,2008,Theft,10371.0
+Uttar Pradesh,2009,Theft,14378.0
+Uttar Pradesh,2010,Theft,16705.0
+Uttarakhand,2001,Theft,374.0
+Uttarakhand,2002,Theft,352.0
+Uttarakhand,2003,Theft,369.0
+Uttarakhand,2004,Theft,471.0
+Uttarakhand,2005,Theft,521.0
+Uttarakhand,2006,Theft,499.0
+Uttarakhand,2007,Theft,545.0
+Uttarakhand,2008,Theft,645.0
+Uttarakhand,2009,Theft,702.0
+Uttarakhand,2010,Theft,853.0
+West Bengal,2001,Theft,2579.0
+West Bengal,2002,Theft,3438.0
+West Bengal,2003,Theft,2581.0
+West Bengal,2004,Theft,2668.0
+West Bengal,2005,Theft,2435.0
+West Bengal,2006,Theft,2714.0
+West Bengal,2007,Theft,2424.0
+West Bengal,2008,Theft,2567.0
+West Bengal,2009,Theft,3618.0
+West Bengal,2010,Theft,4305.0
+Andaman & Nicobar Islands,2001,Murder,13.0
+Andaman & Nicobar Islands,2002,Murder,17.0
+Andaman & Nicobar Islands,2003,Murder,21.0
+Andaman & Nicobar Islands,2004,Murder,15.0
+Andaman & Nicobar Islands,2005,Murder,15.0
+Andaman & Nicobar Islands,2006,Murder,5.0
+Andaman & Nicobar Islands,2007,Murder,15.0
+Andaman & Nicobar Islands,2008,Murder,8.0
+Andaman & Nicobar Islands,2009,Murder,18.0
+Andaman & Nicobar Islands,2010,Murder,10.0
+Andhra Pradesh,2001,Murder,2783.0
+Andhra Pradesh,2002,Murder,2651.0
+Andhra Pradesh,2003,Murder,2914.0
+Andhra Pradesh,2004,Murder,2640.0
+Andhra Pradesh,2005,Murder,2928.0
+Andhra Pradesh,2006,Murder,2940.0
+Andhra Pradesh,2007,Murder,2850.0
+Andhra Pradesh,2008,Murder,2762.0
+Andhra Pradesh,2009,Murder,2475.0
+Andhra Pradesh,2010,Murder,2538.0
+Arunachal Pradesh,2001,Murder,83.0
+Arunachal Pradesh,2002,Murder,61.0
+Arunachal Pradesh,2003,Murder,77.0
+Arunachal Pradesh,2004,Murder,67.0
+Arunachal Pradesh,2005,Murder,81.0
+Arunachal Pradesh,2006,Murder,60.0
+Arunachal Pradesh,2007,Murder,68.0
+Arunachal Pradesh,2008,Murder,72.0
+Arunachal Pradesh,2009,Murder,59.0
+Arunachal Pradesh,2010,Murder,75.0
+Assam,2001,Murder,1356.0
+Assam,2002,Murder,1253.0
+Assam,2003,Murder,1191.0
+Assam,2004,Murder,1214.0
+Assam,2005,Murder,1194.0
+Assam,2006,Murder,1207.0
+Assam,2007,Murder,1374.0
+Assam,2008,Murder,1426.0
+Assam,2009,Murder,1323.0
+Assam,2010,Murder,1223.0
+Bihar,2001,Murder,3643.0
+Bihar,2002,Murder,3831.0
+Bihar,2003,Murder,3772.0
+Bihar,2004,Murder,3948.0
+Bihar,2005,Murder,3471.0
+Bihar,2006,Murder,3249.0
+Bihar,2007,Murder,3081.0
+Bihar,2008,Murder,3139.0
+Bihar,2009,Murder,3179.0
+Bihar,2010,Murder,3362.0
+Chandigarh,2001,Murder,15.0
+Chandigarh,2002,Murder,31.0
+Chandigarh,2003,Murder,21.0
+Chandigarh,2004,Murder,22.0
+Chandigarh,2005,Murder,18.0
+Chandigarh,2006,Murder,14.0
+Chandigarh,2007,Murder,20.0
+Chandigarh,2008,Murder,17.0
+Chandigarh,2009,Murder,22.0
+Chandigarh,2010,Murder,22.0
+Chhattisgarh,2001,Murder,1657.0
+Chhattisgarh,2002,Murder,844.0
+Chhattisgarh,2003,Murder,797.0
+Chhattisgarh,2004,Murder,927.0
+Chhattisgarh,2005,Murder,1050.0
+Chhattisgarh,2006,Murder,1098.0
+Chhattisgarh,2007,Murder,1097.0
+Chhattisgarh,2008,Murder,1169.0
+Chhattisgarh,2009,Murder,1083.0
+Chhattisgarh,2010,Murder,1065.0
+Dadra & Nagar Haveli,2001,Murder,3.0
+Dadra & Nagar Haveli,2002,Murder,11.0
+Dadra & Nagar Haveli,2003,Murder,11.0
+Dadra & Nagar Haveli,2004,Murder,11.0
+Dadra & Nagar Haveli,2005,Murder,7.0
+Dadra & Nagar Haveli,2006,Murder,9.0
+Dadra & Nagar Haveli,2007,Murder,10.0
+Dadra & Nagar Haveli,2008,Murder,9.0
+Dadra & Nagar Haveli,2009,Murder,10.0
+Dadra & Nagar Haveli,2010,Murder,6.0
+Daman & Diu,2002,Murder,8.0
+Daman & Diu,2003,Murder,6.0
+Daman & Diu,2004,Murder,3.0
+Daman & Diu,2005,Murder,5.0
+Daman & Diu,2006,Murder,7.0
+Daman & Diu,2007,Murder,12.0
+Daman & Diu,2008,Murder,2.0
+Daman & Diu,2009,Murder,5.0
+Daman & Diu,2010,Murder,5.0
+Delhi,2001,Murder,574.0
+Delhi,2002,Murder,541.0
+Delhi,2003,Murder,502.0
+Delhi,2004,Murder,510.0
+Delhi,2005,Murder,533.0
+Delhi,2006,Murder,488.0
+Delhi,2007,Murder,511.0
+Delhi,2008,Murder,589.0
+Delhi,2009,Murder,571.0
+Delhi,2010,Murder,577.0
+Goa,2001,Murder,37.0
+Goa,2002,Murder,31.0
+Goa,2003,Murder,34.0
+Goa,2004,Murder,42.0
+Goa,2005,Murder,49.0
+Goa,2006,Murder,40.0
+Goa,2007,Murder,34.0
+Goa,2008,Murder,53.0
+Goa,2009,Murder,57.0
+Goa,2010,Murder,35.0
+Gujarat,2001,Murder,1280.0
+Gujarat,2002,Murder,2327.0
+Gujarat,2003,Murder,1164.0
+Gujarat,2004,Murder,1169.0
+Gujarat,2005,Murder,1103.0
+Gujarat,2006,Murder,1214.0
+Gujarat,2007,Murder,1214.0
+Gujarat,2008,Murder,1145.0
+Gujarat,2009,Murder,1059.0
+Gujarat,2010,Murder,1082.0
+Haryana,2001,Murder,818.0
+Haryana,2002,Murder,811.0
+Haryana,2003,Murder,748.0
+Haryana,2004,Murder,742.0
+Haryana,2005,Murder,812.0
+Haryana,2006,Murder,899.0
+Haryana,2007,Murder,942.0
+Haryana,2008,Murder,970.0
+Haryana,2009,Murder,1007.0
+Haryana,2010,Murder,1044.0
+Himachal Pradesh,2001,Murder,122.0
+Himachal Pradesh,2002,Murder,132.0
+Himachal Pradesh,2003,Murder,130.0
+Himachal Pradesh,2004,Murder,110.0
+Himachal Pradesh,2005,Murder,118.0
+Himachal Pradesh,2006,Murder,129.0
+Himachal Pradesh,2007,Murder,132.0
+Himachal Pradesh,2008,Murder,130.0
+Himachal Pradesh,2009,Murder,133.0
+Himachal Pradesh,2010,Murder,133.0
+Jammu & Kashmir,2001,Murder,1412.0
+Jammu & Kashmir,2002,Murder,1307.0
+Jammu & Kashmir,2003,Murder,1115.0
+Jammu & Kashmir,2004,Murder,989.0
+Jammu & Kashmir,2005,Murder,746.0
+Jammu & Kashmir,2006,Murder,641.0
+Jammu & Kashmir,2007,Murder,366.0
+Jammu & Kashmir,2008,Murder,266.0
+Jammu & Kashmir,2009,Murder,262.0
+Jammu & Kashmir,2010,Murder,235.0
+Jharkhand,2001,Murder,1507.0
+Jharkhand,2002,Murder,1488.0
+Jharkhand,2003,Murder,1482.0
+Jharkhand,2004,Murder,1488.0
+Jharkhand,2005,Murder,1523.0
+Jharkhand,2006,Murder,1492.0
+Jharkhand,2007,Murder,1617.0
+Jharkhand,2008,Murder,1697.0
+Jharkhand,2009,Murder,1636.0
+Jharkhand,2010,Murder,1752.0
+Karnataka,2001,Murder,1678.0
+Karnataka,2002,Murder,1704.0
+Karnataka,2003,Murder,1576.0
+Karnataka,2004,Murder,1567.0
+Karnataka,2005,Murder,1673.0
+Karnataka,2006,Murder,1677.0
+Karnataka,2007,Murder,1586.0
+Karnataka,2008,Murder,1800.0
+Karnataka,2009,Murder,1752.0
+Karnataka,2010,Murder,1878.0
+Kerala,2001,Murder,489.0
+Kerala,2002,Murder,454.0
+Kerala,2003,Murder,435.0
+Kerala,2004,Murder,427.0
+Kerala,2005,Murder,431.0
+Kerala,2006,Murder,426.0
+Kerala,2007,Murder,393.0
+Kerala,2008,Murder,379.0
+Kerala,2009,Murder,369.0
+Kerala,2010,Murder,405.0
+Lakshadweep,2003,Murder,
+Lakshadweep,2006,Murder,
+Lakshadweep,2007,Murder,
+Lakshadweep,2008,Murder,1.0
+Lakshadweep,2009,Murder,
+Madhya Pradesh,2001,Murder,2425.0
+Madhya Pradesh,2002,Murder,2395.0
+Madhya Pradesh,2003,Murder,2227.0
+Madhya Pradesh,2004,Murder,2380.0
+Madhya Pradesh,2005,Murder,2428.0
+Madhya Pradesh,2006,Murder,2330.0
+Madhya Pradesh,2007,Murder,2315.0
+Madhya Pradesh,2008,Murder,2351.0
+Madhya Pradesh,2009,Murder,2402.0
+Madhya Pradesh,2010,Murder,2441.0
+Maharashtra,2001,Murder,2950.0
+Maharashtra,2002,Murder,2991.0
+Maharashtra,2003,Murder,2951.0
+Maharashtra,2004,Murder,2777.0
+Maharashtra,2005,Murder,2745.0
+Maharashtra,2006,Murder,2961.0
+Maharashtra,2007,Murder,2793.0
+Maharashtra,2008,Murder,2976.0
+Maharashtra,2009,Murder,2712.0
+Maharashtra,2010,Murder,2837.0
+Manipur,2001,Murder,233.0
+Manipur,2002,Murder,222.0
+Manipur,2003,Murder,185.0
+Manipur,2004,Murder,193.0
+Manipur,2005,Murder,295.0
+Manipur,2006,Murder,238.0
+Manipur,2007,Murder,295.0
+Manipur,2008,Murder,268.0
+Manipur,2009,Murder,174.0
+Manipur,2010,Murder,101.0
+Meghalaya,2001,Murder,169.0
+Meghalaya,2002,Murder,184.0
+Meghalaya,2003,Murder,175.0
+Meghalaya,2004,Murder,157.0
+Meghalaya,2005,Murder,138.0
+Meghalaya,2006,Murder,157.0
+Meghalaya,2007,Murder,114.0
+Meghalaya,2008,Murder,126.0
+Meghalaya,2009,Murder,128.0
+Meghalaya,2010,Murder,137.0
+Mizoram,2001,Murder,31.0
+Mizoram,2002,Murder,29.0
+Mizoram,2003,Murder,46.0
+Mizoram,2004,Murder,35.0
+Mizoram,2005,Murder,35.0
+Mizoram,2006,Murder,25.0
+Mizoram,2007,Murder,43.0
+Mizoram,2008,Murder,35.0
+Mizoram,2009,Murder,31.0
+Mizoram,2010,Murder,48.0
+Nagaland,2001,Murder,109.0
+Nagaland,2002,Murder,108.0
+Nagaland,2003,Murder,91.0
+Nagaland,2004,Murder,73.0
+Nagaland,2005,Murder,91.0
+Nagaland,2006,Murder,123.0
+Nagaland,2007,Murder,118.0
+Nagaland,2008,Murder,147.0
+Nagaland,2009,Murder,49.0
+Nagaland,2010,Murder,47.0
+Odisha,2001,Murder,1005.0
+Odisha,2002,Murder,1148.0
+Odisha,2003,Murder,1102.0
+Odisha,2004,Murder,1137.0
+Odisha,2005,Murder,1133.0
+Odisha,2006,Murder,1167.0
+Odisha,2007,Murder,1235.0
+Odisha,2008,Murder,1250.0
+Odisha,2009,Murder,1266.0
+Odisha,2010,Murder,1319.0
+Puducherry,2001,Murder,25.0
+Puducherry,2002,Murder,31.0
+Puducherry,2003,Murder,30.0
+Puducherry,2004,Murder,25.0
+Puducherry,2005,Murder,19.0
+Puducherry,2006,Murder,30.0
+Puducherry,2007,Murder,35.0
+Puducherry,2008,Murder,35.0
+Puducherry,2009,Murder,39.0
+Puducherry,2010,Murder,34.0
+Punjab,2001,Murder,787.0
+Punjab,2002,Murder,772.0
+Punjab,2003,Murder,769.0
+Punjab,2004,Murder,802.0
+Punjab,2005,Murder,744.0
+Punjab,2006,Murder,851.0
+Punjab,2007,Murder,826.0
+Punjab,2008,Murder,815.0
+Punjab,2009,Murder,861.0
+Punjab,2010,Murder,945.0
+Rajasthan,2001,Murder,1275.0
+Rajasthan,2002,Murder,1324.0
+Rajasthan,2003,Murder,1284.0
+Rajasthan,2004,Murder,1292.0
+Rajasthan,2005,Murder,1246.0
+Rajasthan,2006,Murder,1238.0
+Rajasthan,2007,Murder,1359.0
+Rajasthan,2008,Murder,1320.0
+Rajasthan,2009,Murder,1417.0
+Rajasthan,2010,Murder,1421.0
+Sikkim,2001,Murder,19.0
+Sikkim,2002,Murder,13.0
+Sikkim,2003,Murder,16.0
+Sikkim,2004,Murder,18.0
+Sikkim,2005,Murder,9.0
+Sikkim,2006,Murder,21.0
+Sikkim,2007,Murder,9.0
+Sikkim,2008,Murder,9.0
+Sikkim,2009,Murder,20.0
+Sikkim,2010,Murder,17.0
+Tamil Nadu,2001,Murder,1662.0
+Tamil Nadu,2002,Murder,1787.0
+Tamil Nadu,2003,Murder,1654.0
+Tamil Nadu,2004,Murder,1544.0
+Tamil Nadu,2005,Murder,1511.0
+Tamil Nadu,2006,Murder,1418.0
+Tamil Nadu,2007,Murder,1711.0
+Tamil Nadu,2008,Murder,1824.0
+Tamil Nadu,2009,Murder,1857.0
+Tamil Nadu,2010,Murder,1908.0
+Tripura,2001,Murder,240.0
+Tripura,2002,Murder,201.0
+Tripura,2003,Murder,254.0
+Tripura,2004,Murder,226.0
+Tripura,2005,Murder,158.0
+Tripura,2006,Murder,165.0
+Tripura,2007,Murder,150.0
+Tripura,2008,Murder,166.0
+Tripura,2009,Murder,148.0
+Tripura,2010,Murder,159.0
+Uttar Pradesh,2001,Murder,8180.0
+Uttar Pradesh,2002,Murder,7538.0
+Uttar Pradesh,2003,Murder,5284.0
+Uttar Pradesh,2004,Murder,6665.0
+Uttar Pradesh,2005,Murder,6365.0
+Uttar Pradesh,2006,Murder,5762.0
+Uttar Pradesh,2007,Murder,5182.0
+Uttar Pradesh,2008,Murder,4699.0
+Uttar Pradesh,2009,Murder,4679.0
+Uttar Pradesh,2010,Murder,4456.0
+Uttarakhand,2001,Murder,381.0
+Uttarakhand,2002,Murder,335.0
+Uttarakhand,2003,Murder,293.0
+Uttarakhand,2004,Murder,267.0
+Uttarakhand,2005,Murder,290.0
+Uttarakhand,2006,Murder,285.0
+Uttarakhand,2007,Murder,268.0
+Uttarakhand,2008,Murder,261.0
+Uttarakhand,2009,Murder,195.0
+Uttarakhand,2010,Murder,176.0
+West Bengal,2001,Murder,1673.0
+West Bengal,2002,Murder,1453.0
+West Bengal,2003,Murder,1464.0
+West Bengal,2004,Murder,1433.0
+West Bengal,2005,Murder,1454.0
+West Bengal,2006,Murder,1442.0
+West Bengal,2007,Murder,1653.0
+West Bengal,2008,Murder,1811.0
+West Bengal,2009,Murder,2161.0
+West Bengal,2010,Murder,2415.0
+Andaman & Nicobar Islands,2001,Rape,3.0
+Andaman & Nicobar Islands,2002,Rape,2.0
+Andaman & Nicobar Islands,2003,Rape,2.0
+Andaman & Nicobar Islands,2004,Rape,10.0
+Andaman & Nicobar Islands,2005,Rape,4.0
+Andaman & Nicobar Islands,2006,Rape,6.0
+Andaman & Nicobar Islands,2007,Rape,3.0
+Andaman & Nicobar Islands,2008,Rape,12.0
+Andaman & Nicobar Islands,2009,Rape,18.0
+Andaman & Nicobar Islands,2010,Rape,24.0
+Andhra Pradesh,2001,Rape,871.0
+Andhra Pradesh,2002,Rape,1002.0
+Andhra Pradesh,2003,Rape,946.0
+Andhra Pradesh,2004,Rape,1016.0
+Andhra Pradesh,2005,Rape,935.0
+Andhra Pradesh,2006,Rape,1049.0
+Andhra Pradesh,2007,Rape,1070.0
+Andhra Pradesh,2008,Rape,1257.0
+Andhra Pradesh,2009,Rape,1188.0
+Andhra Pradesh,2010,Rape,1362.0
+Arunachal Pradesh,2001,Rape,33.0
+Arunachal Pradesh,2002,Rape,38.0
+Arunachal Pradesh,2003,Rape,31.0
+Arunachal Pradesh,2004,Rape,42.0
+Arunachal Pradesh,2005,Rape,35.0
+Arunachal Pradesh,2006,Rape,37.0
+Arunachal Pradesh,2007,Rape,48.0
+Arunachal Pradesh,2008,Rape,42.0
+Arunachal Pradesh,2009,Rape,59.0
+Arunachal Pradesh,2010,Rape,47.0
+Assam,2001,Rape,817.0
+Assam,2002,Rape,970.0
+Assam,2003,Rape,1095.0
+Assam,2004,Rape,1171.0
+Assam,2005,Rape,1238.0
+Assam,2006,Rape,1244.0
+Assam,2007,Rape,1437.0
+Assam,2008,Rape,1438.0
+Assam,2009,Rape,1631.0
+Assam,2010,Rape,1721.0
+Bihar,2001,Rape,888.0
+Bihar,2002,Rape,1040.0
+Bihar,2003,Rape,985.0
+Bihar,2004,Rape,1390.0
+Bihar,2005,Rape,1147.0
+Bihar,2006,Rape,1232.0
+Bihar,2007,Rape,1555.0
+Bihar,2008,Rape,1302.0
+Bihar,2009,Rape,929.0
+Bihar,2010,Rape,795.0
+Chandigarh,2001,Rape,18.0
+Chandigarh,2002,Rape,18.0
+Chandigarh,2003,Rape,18.0
+Chandigarh,2004,Rape,19.0
+Chandigarh,2005,Rape,33.0
+Chandigarh,2006,Rape,19.0
+Chandigarh,2007,Rape,22.0
+Chandigarh,2008,Rape,20.0
+Chandigarh,2009,Rape,29.0
+Chandigarh,2010,Rape,31.0
+Chhattisgarh,2001,Rape,959.0
+Chhattisgarh,2002,Rape,992.0
+Chhattisgarh,2003,Rape,898.0
+Chhattisgarh,2004,Rape,969.0
+Chhattisgarh,2005,Rape,990.0
+Chhattisgarh,2006,Rape,995.0
+Chhattisgarh,2007,Rape,982.0
+Chhattisgarh,2008,Rape,978.0
+Chhattisgarh,2009,Rape,976.0
+Chhattisgarh,2010,Rape,1012.0
+Dadra & Nagar Haveli,2001,Rape,6.0
+Dadra & Nagar Haveli,2002,Rape,4.0
+Dadra & Nagar Haveli,2003,Rape,1.0
+Dadra & Nagar Haveli,2004,Rape,7.0
+Dadra & Nagar Haveli,2005,Rape,5.0
+Dadra & Nagar Haveli,2006,Rape,6.0
+Dadra & Nagar Haveli,2007,Rape,7.0
+Dadra & Nagar Haveli,2008,Rape,6.0
+Dadra & Nagar Haveli,2009,Rape,4.0
+Dadra & Nagar Haveli,2010,Rape,3.0
+Daman & Diu,2002,Rape,0.0
+Daman & Diu,2003,Rape,5.0
+Daman & Diu,2004,Rape,1.0
+Daman & Diu,2005,Rape,2.0
+Daman & Diu,2006,Rape,3.0
+Daman & Diu,2007,Rape,1.0
+Daman & Diu,2008,Rape,0.0
+Daman & Diu,2009,Rape,1.0
+Daman & Diu,2010,Rape,1.0
+Delhi,2001,Rape,381.0
+Delhi,2002,Rape,403.0
+Delhi,2003,Rape,490.0
+Delhi,2004,Rape,551.0
+Delhi,2005,Rape,658.0
+Delhi,2006,Rape,623.0
+Delhi,2007,Rape,598.0
+Delhi,2008,Rape,466.0
+Delhi,2009,Rape,469.0
+Delhi,2010,Rape,507.0
+Goa,2001,Rape,12.0
+Goa,2002,Rape,12.0
+Goa,2003,Rape,31.0
+Goa,2004,Rape,37.0
+Goa,2005,Rape,20.0
+Goa,2006,Rape,21.0
+Goa,2007,Rape,20.0
+Goa,2008,Rape,30.0
+Goa,2009,Rape,47.0
+Goa,2010,Rape,36.0
+Gujarat,2001,Rape,286.0
+Gujarat,2002,Rape,267.0
+Gujarat,2003,Rape,236.0
+Gujarat,2004,Rape,339.0
+Gujarat,2005,Rape,324.0
+Gujarat,2006,Rape,354.0
+Gujarat,2007,Rape,316.0
+Gujarat,2008,Rape,374.0
+Gujarat,2009,Rape,433.0
+Gujarat,2010,Rape,408.0
+Haryana,2001,Rape,398.0
+Haryana,2002,Rape,361.0
+Haryana,2003,Rape,353.0
+Haryana,2004,Rape,386.0
+Haryana,2005,Rape,461.0
+Haryana,2006,Rape,608.0
+Haryana,2007,Rape,488.0
+Haryana,2008,Rape,631.0
+Haryana,2009,Rape,603.0
+Haryana,2010,Rape,720.0
+Himachal Pradesh,2001,Rape,124.0
+Himachal Pradesh,2002,Rape,137.0
+Himachal Pradesh,2003,Rape,126.0
+Himachal Pradesh,2004,Rape,153.0
+Himachal Pradesh,2005,Rape,141.0
+Himachal Pradesh,2006,Rape,113.0
+Himachal Pradesh,2007,Rape,159.0
+Himachal Pradesh,2008,Rape,157.0
+Himachal Pradesh,2009,Rape,183.0
+Himachal Pradesh,2010,Rape,160.0
+Jammu & Kashmir,2001,Rape,169.0
+Jammu & Kashmir,2002,Rape,192.0
+Jammu & Kashmir,2003,Rape,211.0
+Jammu & Kashmir,2004,Rape,218.0
+Jammu & Kashmir,2005,Rape,201.0
+Jammu & Kashmir,2006,Rape,250.0
+Jammu & Kashmir,2007,Rape,288.0
+Jammu & Kashmir,2008,Rape,219.0
+Jammu & Kashmir,2009,Rape,237.0
+Jammu & Kashmir,2010,Rape,245.0
+Jharkhand,2001,Rape,567.0
+Jharkhand,2002,Rape,797.0
+Jharkhand,2003,Rape,712.0
+Jharkhand,2004,Rape,797.0
+Jharkhand,2005,Rape,753.0
+Jharkhand,2006,Rape,799.0
+Jharkhand,2007,Rape,855.0
+Jharkhand,2008,Rape,791.0
+Jharkhand,2009,Rape,719.0
+Jharkhand,2010,Rape,773.0
+Karnataka,2001,Rape,293.0
+Karnataka,2002,Rape,292.0
+Karnataka,2003,Rape,321.0
+Karnataka,2004,Rape,291.0
+Karnataka,2005,Rape,343.0
+Karnataka,2006,Rape,400.0
+Karnataka,2007,Rape,436.0
+Karnataka,2008,Rape,446.0
+Karnataka,2009,Rape,509.0
+Karnataka,2010,Rape,586.0
+Kerala,2001,Rape,562.0
+Kerala,2002,Rape,499.0
+Kerala,2003,Rape,394.0
+Kerala,2004,Rape,480.0
+Kerala,2005,Rape,478.0
+Kerala,2006,Rape,601.0
+Kerala,2007,Rape,512.0
+Kerala,2008,Rape,568.0
+Kerala,2009,Rape,568.0
+Kerala,2010,Rape,634.0
+Lakshadweep,2003,Rape,2.0
+Lakshadweep,2006,Rape,0.0
+Lakshadweep,2007,Rape,1.0
+Lakshadweep,2008,Rape,2.0
+Lakshadweep,2009,Rape,1.0
+Madhya Pradesh,2001,Rape,2851.0
+Madhya Pradesh,2002,Rape,2891.0
+Madhya Pradesh,2003,Rape,2738.0
+Madhya Pradesh,2004,Rape,2875.0
+Madhya Pradesh,2005,Rape,2921.0
+Madhya Pradesh,2006,Rape,2900.0
+Madhya Pradesh,2007,Rape,3010.0
+Madhya Pradesh,2008,Rape,2937.0
+Madhya Pradesh,2009,Rape,2998.0
+Madhya Pradesh,2010,Rape,3135.0
+Maharashtra,2001,Rape,1302.0
+Maharashtra,2002,Rape,1352.0
+Maharashtra,2003,Rape,1268.0
+Maharashtra,2004,Rape,1388.0
+Maharashtra,2005,Rape,1545.0
+Maharashtra,2006,Rape,1500.0
+Maharashtra,2007,Rape,1451.0
+Maharashtra,2008,Rape,1558.0
+Maharashtra,2009,Rape,1483.0
+Maharashtra,2010,Rape,1599.0
+Manipur,2001,Rape,20.0
+Manipur,2002,Rape,14.0
+Manipur,2003,Rape,18.0
+Manipur,2004,Rape,31.0
+Manipur,2005,Rape,25.0
+Manipur,2006,Rape,40.0
+Manipur,2007,Rape,20.0
+Manipur,2008,Rape,38.0
+Manipur,2009,Rape,31.0
+Manipur,2010,Rape,34.0
+Meghalaya,2001,Rape,26.0
+Meghalaya,2002,Rape,38.0
+Meghalaya,2003,Rape,40.0
+Meghalaya,2004,Rape,54.0
+Meghalaya,2005,Rape,63.0
+Meghalaya,2006,Rape,74.0
+Meghalaya,2007,Rape,82.0
+Meghalaya,2008,Rape,88.0
+Meghalaya,2009,Rape,112.0
+Meghalaya,2010,Rape,149.0
+Mizoram,2001,Rape,52.0
+Mizoram,2002,Rape,76.0
+Mizoram,2003,Rape,54.0
+Mizoram,2004,Rape,20.0
+Mizoram,2005,Rape,37.0
+Mizoram,2006,Rape,72.0
+Mizoram,2007,Rape,83.0
+Mizoram,2008,Rape,77.0
+Mizoram,2009,Rape,83.0
+Mizoram,2010,Rape,92.0
+Nagaland,2001,Rape,17.0
+Nagaland,2002,Rape,17.0
+Nagaland,2003,Rape,14.0
+Nagaland,2004,Rape,18.0
+Nagaland,2005,Rape,17.0
+Nagaland,2006,Rape,23.0
+Nagaland,2007,Rape,13.0
+Nagaland,2008,Rape,19.0
+Nagaland,2009,Rape,22.0
+Nagaland,2010,Rape,16.0
+Odisha,2001,Rape,790.0
+Odisha,2002,Rape,691.0
+Odisha,2003,Rape,725.0
+Odisha,2004,Rape,770.0
+Odisha,2005,Rape,799.0
+Odisha,2006,Rape,985.0
+Odisha,2007,Rape,939.0
+Odisha,2008,Rape,1113.0
+Odisha,2009,Rape,1023.0
+Odisha,2010,Rape,1025.0
+Puducherry,2001,Rape,9.0
+Puducherry,2002,Rape,6.0
+Puducherry,2003,Rape,2.0
+Puducherry,2004,Rape,4.0
+Puducherry,2005,Rape,6.0
+Puducherry,2006,Rape,9.0
+Puducherry,2007,Rape,9.0
+Puducherry,2008,Rape,8.0
+Puducherry,2009,Rape,1.0
+Puducherry,2010,Rape,3.0
+Punjab,2001,Rape,298.0
+Punjab,2002,Rape,299.0
+Punjab,2003,Rape,380.0
+Punjab,2004,Rape,390.0
+Punjab,2005,Rape,398.0
+Punjab,2006,Rape,442.0
+Punjab,2007,Rape,519.0
+Punjab,2008,Rape,517.0
+Punjab,2009,Rape,511.0
+Punjab,2010,Rape,546.0
+Rajasthan,2001,Rape,1049.0
+Rajasthan,2002,Rape,1051.0
+Rajasthan,2003,Rape,1050.0
+Rajasthan,2004,Rape,1038.0
+Rajasthan,2005,Rape,993.0
+Rajasthan,2006,Rape,1085.0
+Rajasthan,2007,Rape,1238.0
+Rajasthan,2008,Rape,1355.0
+Rajasthan,2009,Rape,1519.0
+Rajasthan,2010,Rape,1571.0
+Sikkim,2001,Rape,8.0
+Sikkim,2002,Rape,6.0
+Sikkim,2003,Rape,10.0
+Sikkim,2004,Rape,3.0
+Sikkim,2005,Rape,18.0
+Sikkim,2006,Rape,20.0
+Sikkim,2007,Rape,24.0
+Sikkim,2008,Rape,20.0
+Sikkim,2009,Rape,18.0
+Sikkim,2010,Rape,18.0
+Tamil Nadu,2001,Rape,423.0
+Tamil Nadu,2002,Rape,534.0
+Tamil Nadu,2003,Rape,557.0
+Tamil Nadu,2004,Rape,618.0
+Tamil Nadu,2005,Rape,571.0
+Tamil Nadu,2006,Rape,457.0
+Tamil Nadu,2007,Rape,523.0
+Tamil Nadu,2008,Rape,573.0
+Tamil Nadu,2009,Rape,596.0
+Tamil Nadu,2010,Rape,686.0
+Tripura,2001,Rape,102.0
+Tripura,2002,Rape,108.0
+Tripura,2003,Rape,114.0
+Tripura,2004,Rape,160.0
+Tripura,2005,Rape,162.0
+Tripura,2006,Rape,189.0
+Tripura,2007,Rape,157.0
+Tripura,2008,Rape,204.0
+Tripura,2009,Rape,190.0
+Tripura,2010,Rape,238.0
+Uttar Pradesh,2001,Rape,1958.0
+Uttar Pradesh,2002,Rape,1415.0
+Uttar Pradesh,2003,Rape,911.0
+Uttar Pradesh,2004,Rape,1397.0
+Uttar Pradesh,2005,Rape,1217.0
+Uttar Pradesh,2006,Rape,1314.0
+Uttar Pradesh,2007,Rape,1648.0
+Uttar Pradesh,2008,Rape,1871.0
+Uttar Pradesh,2009,Rape,1759.0
+Uttar Pradesh,2010,Rape,1563.0
+Uttarakhand,2001,Rape,74.0
+Uttarakhand,2002,Rape,89.0
+Uttarakhand,2003,Rape,107.0
+Uttarakhand,2004,Rape,115.0
+Uttarakhand,2005,Rape,133.0
+Uttarakhand,2006,Rape,147.0
+Uttarakhand,2007,Rape,117.0
+Uttarakhand,2008,Rape,87.0
+Uttarakhand,2009,Rape,111.0
+Uttarakhand,2010,Rape,121.0
+West Bengal,2001,Rape,709.0
+West Bengal,2002,Rape,759.0
+West Bengal,2003,Rape,1002.0
+West Bengal,2004,Rape,1475.0
+West Bengal,2005,Rape,1686.0
+West Bengal,2006,Rape,1731.0
+West Bengal,2007,Rape,2106.0
+West Bengal,2008,Rape,2263.0
+West Bengal,2009,Rape,2336.0
+West Bengal,2010,Rape,2311.0
+Andaman & Nicobar Islands,2001,Kidnap,2.0
+Andaman & Nicobar Islands,2002,Kidnap,2.0
+Andaman & Nicobar Islands,2003,Kidnap,2.0
+Andaman & Nicobar Islands,2004,Kidnap,4.0
+Andaman & Nicobar Islands,2005,Kidnap,2.0
+Andaman & Nicobar Islands,2006,Kidnap,5.0
+Andaman & Nicobar Islands,2007,Kidnap,13.0
+Andaman & Nicobar Islands,2008,Kidnap,17.0
+Andaman & Nicobar Islands,2009,Kidnap,19.0
+Andaman & Nicobar Islands,2010,Kidnap,10.0
+Andhra Pradesh,2001,Kidnap,1186.0
+Andhra Pradesh,2002,Kidnap,1302.0
+Andhra Pradesh,2003,Kidnap,1485.0
+Andhra Pradesh,2004,Kidnap,1532.0
+Andhra Pradesh,2005,Kidnap,1619.0
+Andhra Pradesh,2006,Kidnap,2063.0
+Andhra Pradesh,2007,Kidnap,2101.0
+Andhra Pradesh,2008,Kidnap,1981.0
+Andhra Pradesh,2009,Kidnap,1965.0
+Andhra Pradesh,2010,Kidnap,2053.0
+Arunachal Pradesh,2001,Kidnap,83.0
+Arunachal Pradesh,2002,Kidnap,57.0
+Arunachal Pradesh,2003,Kidnap,68.0
+Arunachal Pradesh,2004,Kidnap,65.0
+Arunachal Pradesh,2005,Kidnap,58.0
+Arunachal Pradesh,2006,Kidnap,75.0
+Arunachal Pradesh,2007,Kidnap,68.0
+Arunachal Pradesh,2008,Kidnap,79.0
+Arunachal Pradesh,2009,Kidnap,62.0
+Arunachal Pradesh,2010,Kidnap,67.0
+Assam,2001,Kidnap,1480.0
+Assam,2002,Kidnap,1595.0
+Assam,2003,Kidnap,1628.0
+Assam,2004,Kidnap,1906.0
+Assam,2005,Kidnap,1751.0
+Assam,2006,Kidnap,1825.0
+Assam,2007,Kidnap,1971.0
+Assam,2008,Kidnap,2239.0
+Assam,2009,Kidnap,2718.0
+Assam,2010,Kidnap,3250.0
+Bihar,2001,Kidnap,2159.0
+Bihar,2002,Kidnap,2361.0
+Bihar,2003,Kidnap,2435.0
+Bihar,2004,Kidnap,3413.0
+Bihar,2005,Kidnap,2693.0
+Bihar,2006,Kidnap,2619.0
+Bihar,2007,Kidnap,2530.0
+Bihar,2008,Kidnap,3047.0
+Bihar,2009,Kidnap,3240.0
+Bihar,2010,Kidnap,3683.0
+Chandigarh,2001,Kidnap,56.0
+Chandigarh,2002,Kidnap,57.0
+Chandigarh,2003,Kidnap,33.0
+Chandigarh,2004,Kidnap,55.0
+Chandigarh,2005,Kidnap,56.0
+Chandigarh,2006,Kidnap,66.0
+Chandigarh,2007,Kidnap,54.0
+Chandigarh,2008,Kidnap,53.0
+Chandigarh,2009,Kidnap,42.0
+Chandigarh,2010,Kidnap,38.0
+Chhattisgarh,2001,Kidnap,207.0
+Chhattisgarh,2002,Kidnap,178.0
+Chhattisgarh,2003,Kidnap,177.0
+Chhattisgarh,2004,Kidnap,214.0
+Chhattisgarh,2005,Kidnap,246.0
+Chhattisgarh,2006,Kidnap,239.0
+Chhattisgarh,2007,Kidnap,244.0
+Chhattisgarh,2008,Kidnap,273.0
+Chhattisgarh,2009,Kidnap,286.0
+Chhattisgarh,2010,Kidnap,359.0
+Dadra & Nagar Haveli,2001,Kidnap,5.0
+Dadra & Nagar Haveli,2002,Kidnap,10.0
+Dadra & Nagar Haveli,2003,Kidnap,8.0
+Dadra & Nagar Haveli,2004,Kidnap,12.0
+Dadra & Nagar Haveli,2005,Kidnap,13.0
+Dadra & Nagar Haveli,2006,Kidnap,19.0
+Dadra & Nagar Haveli,2007,Kidnap,9.0
+Dadra & Nagar Haveli,2008,Kidnap,17.0
+Dadra & Nagar Haveli,2009,Kidnap,12.0
+Dadra & Nagar Haveli,2010,Kidnap,18.0
+Daman & Diu,2002,Kidnap,3.0
+Daman & Diu,2003,Kidnap,1.0
+Daman & Diu,2004,Kidnap,2.0
+Daman & Diu,2005,Kidnap,4.0
+Daman & Diu,2006,Kidnap,5.0
+Daman & Diu,2007,Kidnap,1.0
+Daman & Diu,2008,Kidnap,4.0
+Daman & Diu,2009,Kidnap,
+Daman & Diu,2010,Kidnap,2.0
+Delhi,2001,Kidnap,1759.0
+Delhi,2002,Kidnap,1396.0
+Delhi,2003,Kidnap,1204.0
+Delhi,2004,Kidnap,1211.0
+Delhi,2005,Kidnap,1595.0
+Delhi,2006,Kidnap,1452.0
+Delhi,2007,Kidnap,1768.0
+Delhi,2008,Kidnap,1597.0
+Delhi,2009,Kidnap,2670.0
+Delhi,2010,Kidnap,3565.0
+Goa,2001,Kidnap,9.0
+Goa,2002,Kidnap,10.0
+Goa,2003,Kidnap,15.0
+Goa,2004,Kidnap,13.0
+Goa,2005,Kidnap,21.0
+Goa,2006,Kidnap,19.0
+Goa,2007,Kidnap,12.0
+Goa,2008,Kidnap,40.0
+Goa,2009,Kidnap,34.0
+Goa,2010,Kidnap,27.0
+Gujarat,2001,Kidnap,1016.0
+Gujarat,2002,Kidnap,1024.0
+Gujarat,2003,Kidnap,1048.0
+Gujarat,2004,Kidnap,1143.0
+Gujarat,2005,Kidnap,1172.0
+Gujarat,2006,Kidnap,1138.0
+Gujarat,2007,Kidnap,1327.0
+Gujarat,2008,Kidnap,1338.0
+Gujarat,2009,Kidnap,1353.0
+Gujarat,2010,Kidnap,1450.0
+Haryana,2001,Kidnap,456.0
+Haryana,2002,Kidnap,438.0
+Haryana,2003,Kidnap,400.0
+Haryana,2004,Kidnap,423.0
+Haryana,2005,Kidnap,509.0
+Haryana,2006,Kidnap,642.0
+Haryana,2007,Kidnap,803.0
+Haryana,2008,Kidnap,870.0
+Haryana,2009,Kidnap,916.0
+Haryana,2010,Kidnap,969.0
+Himachal Pradesh,2001,Kidnap,128.0
+Himachal Pradesh,2002,Kidnap,140.0
+Himachal Pradesh,2003,Kidnap,114.0
+Himachal Pradesh,2004,Kidnap,125.0
+Himachal Pradesh,2005,Kidnap,118.0
+Himachal Pradesh,2006,Kidnap,131.0
+Himachal Pradesh,2007,Kidnap,173.0
+Himachal Pradesh,2008,Kidnap,155.0
+Himachal Pradesh,2009,Kidnap,153.0
+Himachal Pradesh,2010,Kidnap,200.0
+Jammu & Kashmir,2001,Kidnap,606.0
+Jammu & Kashmir,2002,Kidnap,674.0
+Jammu & Kashmir,2003,Kidnap,712.0
+Jammu & Kashmir,2004,Kidnap,738.0
+Jammu & Kashmir,2005,Kidnap,748.0
+Jammu & Kashmir,2006,Kidnap,798.0
+Jammu & Kashmir,2007,Kidnap,772.0
+Jammu & Kashmir,2008,Kidnap,709.0
+Jammu & Kashmir,2009,Kidnap,880.0
+Jammu & Kashmir,2010,Kidnap,896.0
+Jharkhand,2001,Kidnap,441.0
+Jharkhand,2002,Kidnap,574.0
+Jharkhand,2003,Kidnap,242.0
+Jharkhand,2004,Kidnap,238.0
+Jharkhand,2005,Kidnap,621.0
+Jharkhand,2006,Kidnap,491.0
+Jharkhand,2007,Kidnap,762.0
+Jharkhand,2008,Kidnap,792.0
+Jharkhand,2009,Kidnap,827.0
+Jharkhand,2010,Kidnap,978.0
+Karnataka,2001,Kidnap,580.0
+Karnataka,2002,Kidnap,661.0
+Karnataka,2003,Kidnap,535.0
+Karnataka,2004,Kidnap,603.0
+Karnataka,2005,Kidnap,597.0
+Karnataka,2006,Kidnap,635.0
+Karnataka,2007,Kidnap,721.0
+Karnataka,2008,Kidnap,777.0
+Karnataka,2009,Kidnap,902.0
+Karnataka,2010,Kidnap,1441.0
+Kerala,2001,Kidnap,190.0
+Kerala,2002,Kidnap,175.0
+Kerala,2003,Kidnap,189.0
+Kerala,2004,Kidnap,232.0
+Kerala,2005,Kidnap,234.0
+Kerala,2006,Kidnap,301.0
+Kerala,2007,Kidnap,262.0
+Kerala,2008,Kidnap,257.0
+Kerala,2009,Kidnap,261.0
+Kerala,2010,Kidnap,270.0
+Lakshadweep,2003,Kidnap,
+Lakshadweep,2006,Kidnap,
+Lakshadweep,2007,Kidnap,
+Lakshadweep,2008,Kidnap,1.0
+Lakshadweep,2009,Kidnap,
+Madhya Pradesh,2001,Kidnap,1023.0
+Madhya Pradesh,2002,Kidnap,1006.0
+Madhya Pradesh,2003,Kidnap,887.0
+Madhya Pradesh,2004,Kidnap,832.0
+Madhya Pradesh,2005,Kidnap,847.0
+Madhya Pradesh,2006,Kidnap,810.0
+Madhya Pradesh,2007,Kidnap,959.0
+Madhya Pradesh,2008,Kidnap,946.0
+Madhya Pradesh,2009,Kidnap,1065.0
+Madhya Pradesh,2010,Kidnap,1207.0
+Maharashtra,2001,Kidnap,1004.0
+Maharashtra,2002,Kidnap,976.0
+Maharashtra,2003,Kidnap,955.0
+Maharashtra,2004,Kidnap,1103.0
+Maharashtra,2005,Kidnap,1336.0
+Maharashtra,2006,Kidnap,1444.0
+Maharashtra,2007,Kidnap,1448.0
+Maharashtra,2008,Kidnap,1465.0
+Maharashtra,2009,Kidnap,1401.0
+Maharashtra,2010,Kidnap,1603.0
+Manipur,2001,Kidnap,94.0
+Manipur,2002,Kidnap,157.0
+Manipur,2003,Kidnap,138.0
+Manipur,2004,Kidnap,146.0
+Manipur,2005,Kidnap,110.0
+Manipur,2006,Kidnap,134.0
+Manipur,2007,Kidnap,196.0
+Manipur,2008,Kidnap,237.0
+Manipur,2009,Kidnap,175.0
+Manipur,2010,Kidnap,231.0
+Meghalaya,2001,Kidnap,55.0
+Meghalaya,2002,Kidnap,52.0
+Meghalaya,2003,Kidnap,49.0
+Meghalaya,2004,Kidnap,55.0
+Meghalaya,2005,Kidnap,48.0
+Meghalaya,2006,Kidnap,58.0
+Meghalaya,2007,Kidnap,52.0
+Meghalaya,2008,Kidnap,56.0
+Meghalaya,2009,Kidnap,57.0
+Meghalaya,2010,Kidnap,76.0
+Mizoram,2001,Kidnap,4.0
+Mizoram,2002,Kidnap,8.0
+Mizoram,2003,Kidnap,9.0
+Mizoram,2004,Kidnap,15.0
+Mizoram,2005,Kidnap,13.0
+Mizoram,2006,Kidnap,5.0
+Mizoram,2007,Kidnap,4.0
+Mizoram,2008,Kidnap,9.0
+Mizoram,2009,Kidnap,9.0
+Mizoram,2010,Kidnap,9.0
+Nagaland,2001,Kidnap,27.0
+Nagaland,2002,Kidnap,27.0
+Nagaland,2003,Kidnap,89.0
+Nagaland,2004,Kidnap,25.0
+Nagaland,2005,Kidnap,32.0
+Nagaland,2006,Kidnap,33.0
+Nagaland,2007,Kidnap,17.0
+Nagaland,2008,Kidnap,44.0
+Nagaland,2009,Kidnap,52.0
+Nagaland,2010,Kidnap,50.0
+Odisha,2001,Kidnap,524.0
+Odisha,2002,Kidnap,523.0
+Odisha,2003,Kidnap,477.0
+Odisha,2004,Kidnap,533.0
+Odisha,2005,Kidnap,641.0
+Odisha,2006,Kidnap,704.0
+Odisha,2007,Kidnap,804.0
+Odisha,2008,Kidnap,908.0
+Odisha,2009,Kidnap,931.0
+Odisha,2010,Kidnap,1016.0
+Puducherry,2001,Kidnap,6.0
+Puducherry,2002,Kidnap,10.0
+Puducherry,2003,Kidnap,19.0
+Puducherry,2004,Kidnap,10.0
+Puducherry,2005,Kidnap,6.0
+Puducherry,2006,Kidnap,18.0
+Puducherry,2007,Kidnap,20.0
+Puducherry,2008,Kidnap,17.0
+Puducherry,2009,Kidnap,18.0
+Puducherry,2010,Kidnap,20.0
+Punjab,2001,Kidnap,513.0
+Punjab,2002,Kidnap,557.0
+Punjab,2003,Kidnap,505.0
+Punjab,2004,Kidnap,485.0
+Punjab,2005,Kidnap,518.0
+Punjab,2006,Kidnap,613.0
+Punjab,2007,Kidnap,790.0
+Punjab,2008,Kidnap,733.0
+Punjab,2009,Kidnap,714.0
+Punjab,2010,Kidnap,799.0
+Rajasthan,2001,Kidnap,2718.0
+Rajasthan,2002,Kidnap,2587.0
+Rajasthan,2003,Kidnap,2238.0
+Rajasthan,2004,Kidnap,2384.0
+Rajasthan,2005,Kidnap,1993.0
+Rajasthan,2006,Kidnap,1970.0
+Rajasthan,2007,Kidnap,2177.0
+Rajasthan,2008,Kidnap,2364.0
+Rajasthan,2009,Kidnap,2884.0
+Rajasthan,2010,Kidnap,2998.0
+Sikkim,2001,Kidnap,7.0
+Sikkim,2002,Kidnap,9.0
+Sikkim,2003,Kidnap,
+Sikkim,2004,Kidnap,5.0
+Sikkim,2005,Kidnap,3.0
+Sikkim,2006,Kidnap,8.0
+Sikkim,2007,Kidnap,9.0
+Sikkim,2008,Kidnap,5.0
+Sikkim,2009,Kidnap,8.0
+Sikkim,2010,Kidnap,7.0
+Tamil Nadu,2001,Kidnap,952.0
+Tamil Nadu,2002,Kidnap,1008.0
+Tamil Nadu,2003,Kidnap,922.0
+Tamil Nadu,2004,Kidnap,878.0
+Tamil Nadu,2005,Kidnap,1043.0
+Tamil Nadu,2006,Kidnap,923.0
+Tamil Nadu,2007,Kidnap,1283.0
+Tamil Nadu,2008,Kidnap,1387.0
+Tamil Nadu,2009,Kidnap,1392.0
+Tamil Nadu,2010,Kidnap,1726.0
+Tripura,2001,Kidnap,286.0
+Tripura,2002,Kidnap,128.0
+Tripura,2003,Kidnap,146.0
+Tripura,2004,Kidnap,153.0
+Tripura,2005,Kidnap,120.0
+Tripura,2006,Kidnap,131.0
+Tripura,2007,Kidnap,146.0
+Tripura,2008,Kidnap,162.0
+Tripura,2009,Kidnap,121.0
+Tripura,2010,Kidnap,130.0
+Uttar Pradesh,2001,Kidnap,4352.0
+Uttar Pradesh,2002,Kidnap,3430.0
+Uttar Pradesh,2003,Kidnap,2211.0
+Uttar Pradesh,2004,Kidnap,3337.0
+Uttar Pradesh,2005,Kidnap,2955.0
+Uttar Pradesh,2006,Kidnap,3350.0
+Uttar Pradesh,2007,Kidnap,4481.0
+Uttar Pradesh,2008,Kidnap,5430.0
+Uttar Pradesh,2009,Kidnap,6083.0
+Uttar Pradesh,2010,Kidnap,6323.0
+Uttarakhand,2001,Kidnap,183.0
+Uttarakhand,2002,Kidnap,198.0
+Uttarakhand,2003,Kidnap,172.0
+Uttarakhand,2004,Kidnap,213.0
+Uttarakhand,2005,Kidnap,204.0
+Uttarakhand,2006,Kidnap,213.0
+Uttarakhand,2007,Kidnap,253.0
+Uttarakhand,2008,Kidnap,248.0
+Uttarakhand,2009,Kidnap,275.0
+Uttarakhand,2010,Kidnap,286.0
+West Bengal,2001,Kidnap,885.0
+West Bengal,2002,Kidnap,840.0
+West Bengal,2003,Kidnap,908.0
+West Bengal,2004,Kidnap,1206.0
+West Bengal,2005,Kidnap,1207.0
+West Bengal,2006,Kidnap,1355.0
+West Bengal,2007,Kidnap,1800.0
+West Bengal,2008,Kidnap,2338.0
+West Bengal,2009,Kidnap,2779.0
+West Bengal,2010,Kidnap,3391.0
